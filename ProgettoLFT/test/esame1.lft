@@ -1,0 +1,15 @@
+//Riga
+(do
+    (read a_1)
+    (read b_2)
+    (while (<> a_1 b_2)
+        (cond (> a_1 b_2) (= a_1 (- a_1 b_2)) (else (= b_2 (- b_2 a_1))))
+    )
+    (print a_1)
+(print a_1 b_2 (+ 1000 1 1) )
+)
+
+/**
+commento*/
+
+//Riga2

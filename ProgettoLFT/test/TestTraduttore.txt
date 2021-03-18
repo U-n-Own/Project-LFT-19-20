@@ -1,0 +1,6 @@
+(do
+	(read x)
+	(read y)
+	
+	(print (+ a x)) /*Sum*/
+)

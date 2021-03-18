@@ -1,0 +1,18 @@
+Primo Passo:
+Nel file Translator.java inserire il nome del programma che si vuole eseguire come argomento nel suo Main
+
+javac Translator.java
+
+Poi bisogna creare il file Output
+
+java Translator
+
+Genera un Output.j con il Bytecode
+
+Per compilarlo usiamo jasmin.jar
+
+java -jar jasmine.jar Output.j
+
+Per eseguire infine il programma 
+
+java Output
