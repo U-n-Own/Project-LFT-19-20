@@ -13,12 +13,6 @@ Il file Output.j viene generato dentro la cartella src, poi per eseguirlo scrivi
 java Output.
 
 ENG:
-I reorganized the project.
-
-Put in a folder all test file .txt
-
-Warning to use the code, modify the path in the files
-
 How does work?
 Open terminal in src and, launch java Translator name-file-to-Translate.lft
 
